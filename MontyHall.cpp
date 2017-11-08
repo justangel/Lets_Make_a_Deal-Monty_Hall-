@@ -1,10 +1,11 @@
 #include <iostream>
+#include <cmath>
 
 using namespace std;
 
 double round(double num, int precision);
 
-void main()
+int main()
 {
 	const int DOORS_COUNT = 3;
 
